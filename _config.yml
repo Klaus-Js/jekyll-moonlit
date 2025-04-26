@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: moonlit
+description: "moonlit is a grayscale light theme inspired by the colors of the moon!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]

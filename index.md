@@ -2,5 +2,5 @@
 title: Home
 ---
 
-# Moonlit
-moonlit is a grayscale light theme inspired by the color pallete of the moon!
+# moonlit
+moonlit is a grayscale light theme inspired by the colors of the moon!
